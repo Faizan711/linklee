@@ -1,4 +1,4 @@
-# ZipLink
+# linklee
 
 Its a simple URL shortener with Next.js and Supabase.
 
